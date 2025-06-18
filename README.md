@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aman OJha
 
-<!--
+
 **AmanOjha04/AmanOjha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [ojhaaman2004@gmail.com](mailto:ojhaaman2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-ojha-1605a42a5)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I treat coding errors as puzzles- the more confusing, the more interesting!
--->
+
 
