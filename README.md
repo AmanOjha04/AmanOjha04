@@ -1,10 +1,5 @@
 ## 👋 Hi, I'm Aman OJha
 
-
-**AmanOjha04/AmanOjha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🎓 B.Tech CSE Student at Shri Ramswaroop Memorial University (2022–26)  
 🐍 Python Enthusiast | 📊 Exploring Data Science & Machine Learning  
 💻 Currently building projects and sharpening my skills for real-world impact
