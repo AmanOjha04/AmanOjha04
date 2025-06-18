@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Aman OJha
 
 <!--
-**AmanOjha04/AmanOJha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AmanOjha04/AmanOjha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
