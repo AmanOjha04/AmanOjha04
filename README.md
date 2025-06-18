@@ -5,8 +5,8 @@
 💻 Currently building projects and sharpening my skills for real-world impact
 
 - 🔭 I'm currently working on ML & python-based projects 
-- 🌱 I’m currently learning Data Science, pandas,numpy, and machine learning 
-- 👯 I’m looking to collaborate on Open-source python or Ml projects
+- 🌱 I’m currently learning Data Science, Pandas,Numpy, and Machine Learning 
+- 👯 I’m looking to collaborate on Open-source python or ML projects
 - 🤔 I’m looking for help with Deploying ML models
 - 💬 Ask me about Python, ML basics, Pandas, SQL, Github 
 - 📫 How to reach me: [ojhaaman2004@gmail.com](mailto:ojhaaman2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-ojha-1605a42a5)
